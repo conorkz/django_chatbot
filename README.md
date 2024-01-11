@@ -1,1 +1,1 @@
-# django_chatbot
+# Django chatbot on OpenAI's GPT4
